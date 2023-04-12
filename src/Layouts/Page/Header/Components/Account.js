@@ -3,7 +3,7 @@ import ArrowDownIcon from '../../../../Icons/ArrowDownIcon';
 import styled from 'styled-components';
 
 const Text = styled.div`
-    color: #D3EAFE;
+    color: #0F172A;
 `;
 const HoverWrapper = styled.div`
     display: inherit;
