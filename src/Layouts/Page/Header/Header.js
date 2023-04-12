@@ -7,7 +7,7 @@ import ArrowLeft from "../../../Images/ArrowLeft"
 import ArrowRight from "../../../Images/ArrowRight"
 
 const Container = styled.div`
-    background: background: #F8FAFC;
+    background: #F8FAFC;
 `;
 
 function Header() {
