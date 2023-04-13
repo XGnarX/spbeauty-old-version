@@ -12,7 +12,7 @@ const Address = styled.div`
 
 function Addresses() {
     return (
-        <Address className='d-inline-flex flex-column gap-2 col justify-content-between'>
+        <Address className='d-inline-flex flex-column gap-2 col justify-content-between me-5'>
             <div>
             <div className='title'>Адреса заведений</div>
             <div className='d-flex flex-column gap-3 mt-4'>
