@@ -5,7 +5,7 @@ import ListElement from "./ListElement";
 import styled from "styled-components";
 
 const Address = styled.div`
-    border-radius: 24px;
+    border-radius: 8px;
     border: solid #E2E8F0 1px;
     padding: 24px;
 `;
